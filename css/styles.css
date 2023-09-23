@@ -102,6 +102,10 @@ body {
 	border-radius: 1.5rem;
 }
 
+.summary span img {
+	transform: translateY(.2rem);
+}
+
 .circle {
 	background-color: none;
 	display: flex;
